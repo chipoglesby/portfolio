@@ -1,0 +1,21 @@
+# Base configs
+baseurl: "http://portfolio.chipoglesby.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: ""
+
+# UI configs
+title: "Photography by Chip Oglesby"
+subtitle: "Let Me Show You What I See"
+author: "Chip Oglesby"
+header:
+  title: "Photography"
+  subtitle: "by Chip Oglesby"
+footer:
+  name: "Hey there, my name is Chip"
+  bio: "I'm a recovering photojournalist now working in Data Analytics. I worked as a professional photojournalist between 2004 and 2010. That includes working on a photo desk as a picture editor amongst other tasks. Recently I began to work on my photography again and want to share it with others."
+social_urls:
+  twitter: "https://www.twitter.com/chipoglesby"
+  linkedin: "https://in.linkedin.com/in/chipoglesby"
+  github: "https://www.github.com/chipoglesby"
+  blog: "https://www.chipoglesby.com/photography/"
